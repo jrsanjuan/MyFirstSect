@@ -1,4 +1,4 @@
-# My-First-Sect
+# My First Sect
 
 ![Sect](https://github.com/jrsanjuan/MyFirstSect/blob/master/Media/sect.gif)
 
